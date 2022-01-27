@@ -5,7 +5,7 @@ const web3 = new Web3('https://rinkeby.infura.io/v3/30f709e5f1fe491fadae788c82dc
 
 const account1 = '0x1b922Baa2a64892C75140Ab791eF5D6bB2827F21'
 const account2 = '0xa3A2A3f07c543c940746E11BaCAe8C2c79035673'
-//const privatekey1 = web3.utils.toHex('0f33408e7569b6c1f462b474ffc52795186ec1ed5ab2c6e647426a84c96eeb32')
+//const privatekey1 = web3.utils.toHex('YOUR PRIVATE KEY')
 
 const privateKey = Buffer.from('0f33408e7569b6c1f462b474ffc52795186ec1ed5ab2c6e647426a84c96eeb32','hex')
 
